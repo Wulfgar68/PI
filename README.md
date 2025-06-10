@@ -1,1 +1,1 @@
-# PI
+Zadatak 7 nisam siguran zasto ne radi, saljem sada jer nemam vremena
